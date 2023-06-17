@@ -17,8 +17,8 @@ int main(void)
 		putchar(dgt + 48);
 		if (dgt != 9)
 		{
-			putchr(',');
-			putchr(' ');
+			putchar(',');
+			putchar(' ');
 		}
 		dgt++;
 	}
