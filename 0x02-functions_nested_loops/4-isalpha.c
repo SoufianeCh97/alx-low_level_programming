@@ -1,7 +1,9 @@
 # include "main.h"
 
 /**
- * A function that checks for alphabetic character.
+ * _isalpha - A function that checks for alphabetic character.
+ *
+ * @c: checks input of fonction
  *
  * Return: returns 1 if 'c' is lowercase
  *      otherwise always 0 (Success)

@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * Rrint alphabet using _putchar
- *
- * Description :
+ * print_alphabet - Fontion that print alphabet using _putchat
  *
 */
 
