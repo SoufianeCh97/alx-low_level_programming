@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * print alphabet using _putchar
+ * Rrint alphabet using _putchar
+ *
+ * Description :
  *
 */
 
